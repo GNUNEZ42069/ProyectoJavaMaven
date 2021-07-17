@@ -1,0 +1,7 @@
+organization=gnunez42069
+projectKey=GNUNEZ42069_ProyectoJavaMaven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=GNUNEZ42069_ProyectoJavaMaven
+ceTaskId=AXqybiPdrfYeZHroBZ89
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqybiPdrfYeZHroBZ89
